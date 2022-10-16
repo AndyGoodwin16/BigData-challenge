@@ -1,3 +1,4 @@
+NOTE: Screenshots of pgAdmin/RDS to show data imported correctly.
 # Unit 22 Homework: “Alexa, Can You Handle Big Data?”
 
 ## Before You Begin
